@@ -1,0 +1,21 @@
+{ 
+"Telegramnickname": "katrin_naumovich",
+"Bug_id": "105",
+"Title": "Summary",
+"Severity": "Major",
+"Priority": "Medium",
+"Environment": "Redmi Note 6 Pro MIUI Global 12.0.1",
+
+"Precondition": 
+  "[1) Install androidTest application,
+    2) Set the size of the grid 4*6, 5*6]",
+  
+  "Steps":
+  "[1......
+   2......]",
+
+   "Actual result": ".......",
+   "Expected result": ".......",
+
+   "Attachments": ""
+}
